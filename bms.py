@@ -15,6 +15,6 @@ while True:
 		print(strong.contents[0])
 		cinemaName = strong.contents[0]
 		if "prasad" in cinemaName.lower():
-			shout("Oh fuck, Oh Fuck, IMAX has been added")
+			shout("Boom, Boom, Boom, Boom, Boom")
 
 	time.sleep(180)
